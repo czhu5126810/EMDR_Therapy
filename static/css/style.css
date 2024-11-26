@@ -1,0 +1,86 @@
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(4,4,12);
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    color: white;
+  }
+
+  .logo {
+    width: 120px;
+    height: 120px;
+    margin:auto;
+  }
+
+  .logo-text {
+    font-size: 60px;
+    font-family: 'Irish Grover';
+  }
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Irish Grover';
+    display: flex;
+    margin: auto;
+    margin-left:300px;
+  }
+
+  .centered {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: 'Irish Grover';
+  }
+
+ 
+  .startshere {
+    background-color:rgb(120,159,160); /* Green */
+    border: none;
+    color: black;
+    font-size: 50px;
+    padding: 50px 70px;
+    font-family: Irish Grover;
+  }
+
+  .vertical-center {
+    margin:auto;
+    display:block;
+    margin-bottom: 5%;
+  }
+
+  .next{
+    background-color:rgb(120,159,160); /* Green */
+    border: none;
+    color: black;
+    font-size: 50px;
+    padding: 50px 120px;
+    font-family: Irish Grover;
+  }
+  .vertical-right {
+    float: right;
+    display: block;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-right: 6%;
+  }
+
+  
+/*TrameRecall page*/
+
+.paragraph{
+  color: rgb(0, 0, 0);
+  font-size: 45px;
+  font-family: 'Irish Grover';
+}
+
+.video {
+  display:flex;
+  margin:auto;
+}
+
+.a {text-decoration: none; }
